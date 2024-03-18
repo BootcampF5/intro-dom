@@ -1,0 +1,13 @@
+.img {
+    width: 250px;
+}
+
+.button{
+    width: 100px;
+    height: 30px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border: none;
+    border-radius: 15px;
+    padding: 1%;
+}
